@@ -1,4 +1,4 @@
-# 🛠️ Software Engineering Sessional
+# Software Engineering Sessional
 
 This repository contains my sessional submissions for the Software Engineering course. The goal was to apply key software design principles using Java, focusing on object-oriented programming, design patterns, and unit testing.
 
